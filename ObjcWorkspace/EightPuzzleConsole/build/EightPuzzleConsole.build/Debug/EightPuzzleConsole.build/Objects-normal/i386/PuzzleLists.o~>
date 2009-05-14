@@ -1,0 +1,2 @@
+/Users/entropy/Documents/EightPuzzleConsole/PuzzleLists.m: In function '-[PuzzleLists init]':
+/Users/entropy/Documents/EightPuzzleConsole/PuzzleLists.m:23: warning: 'return' with a value, in function returning void

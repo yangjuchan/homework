@@ -1,0 +1,103 @@
+"========== 기본 변수 설정 ==========
+syntax on
+set cindent
+set smartindent
+set autoindent
+set ts=8
+set sw=4
+set sts=4
+set nowrap
+set ff=unix
+"set bg=dark
+set ruler
+set path=/usr/include,/usr/local/include,/usr/src/include
+
+"========== GUI (gVim) 설정 ==========
+if has( "gui_running" )
+"    colorscheme torte
+    set gfn=Bitstream\ Vera\ Sans\ Mono\ 10
+    au GUIEnter * winsize 85 35
+endif
+
+"========== Key 매핑 ==========
+map <F2> v]}zf
+map <F3> zo
+map <F4> :Tlist<cr><C-W><C-W>
+map <F5> :BufExplorer<cr>
+map <F6> :%s///g
+map <PageUp> <C-U><C-U>
+map <PageDown> <C-D><C-D>
+
+"========== Compiler ==========
+au FileType c map <F7> :!gcc % -o %<
+au FileType c map <F8> :!./%<
+
+"========== Indent 설정 및 제거 ==========
+map ,noi :set noai<CR>:set nocindent<CR>:set nosmartindent<CR>
+map ,sei :set ai<CR>:set cindent<CR>:set smartindent<CR>
+
+"========== 파일 버퍼 간 이동 ==========
+map ,1 :b!1<CR>	
+map ,2 :b!2<CR>
+map ,3 :b!3<CR>
+map ,4 :b!4<CR>
+map ,5 :b!5<CR>
+map ,6 :b!6<CR>
+map ,7 :b!7<CR>
+map ,8 :b!8<CR>
+map ,9 :b!9<CR>
+map ,0 :b!10<CR>
+map ,w :bw<CR>
+
+"========== ctags 설정 ==========
+set tags=./tags,../tags,../../tags,/usr/include/tags,/usr/local/include/tags,/System/Library/Frameworks/AppKit.framework/Headers/tags,/System/Library/Frameworks/Foundation.framework/Headers/tags,/System/Library/Frameworks/CoreData.framework/Headers/tags
+
+if version >= 500
+func! Sts()
+	let st = expand("<cword>");
+	exe "sts ".st
+endfunc
+nmap ,st :call Sts()<cr>
+
+func! Tj()
+	let st = expand("<cword>");
+	exe "tj ".st
+endfunc
+nmap ,tj :call Tj()<cr>
+endif
+
+"========== man page 설정 ==========
+func! Man()
+	let sm = expand("<cword>")
+	exe "!man -S 2:3:4:5:6:7:8:9:tcl:n:l:p:o ".sm
+endfunc
+nmap ,ma :call Man()<cr><cr>
+
+"========== 인터넷 사전 설정 ==========
+func! NaverDic()
+	let sed = expand("<cword>")
+	new
+	exec "r! eedic.sh ".sed
+	set nomod wrap
+endfunc
+nmap ,ed :call NaverDic()<cr>gg
+
+"========== Auto completion ==========
+function! InsertTabWrapper()
+    let col = col('.') - 1
+    if !col || getline('.')[col-1]!~'\k'
+	return "\<TAB>"
+    else
+	if pumvisible()
+	    return "\<C-N>"
+	else
+	    return "\<C-N>\<C-P>"
+	end
+    endif
+endfunction
+
+inoremap <tab> <c-r>=InsertTabWrapper()<cr>
+
+hi Pmenu ctermbg=blue
+hi PmenuSel ctermbg=yellow ctermfg=black
+hi PmenuSbar ctermbg=blue

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/minitest
+END
+autorun.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/minitest/autorun.rb
+END
+unit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/minitest/unit.rb
+END
+mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/minitest/mock.rb
+END
+spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/minitest/spec.rb
+END

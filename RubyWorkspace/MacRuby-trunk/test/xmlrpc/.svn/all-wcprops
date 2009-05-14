@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/xmlrpc
+END
+test_features.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/test_features.rb
+END
+webrick_testing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/webrick_testing.rb
+END
+test_marshal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/test_marshal.rb
+END
+test_cookie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/xmlrpc/test_cookie.rb
+END
+test_datetime.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/test_datetime.rb
+END
+test_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/test_parser.rb
+END
+test_webrick_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/test_webrick_server.rb
+END

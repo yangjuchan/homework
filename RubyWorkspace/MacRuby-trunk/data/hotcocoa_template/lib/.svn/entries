@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/data/hotcocoa_template/lib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-15T04:42:06.040658Z
+445
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+application.rb
+file
+
+
+
+
+2009-03-19T12:59:51.000000Z
+94f393e7e71d5583a3bfa57730cc3152
+2008-08-15T04:42:06.040658Z
+445
+rich@infoether.com
+
+menu.rb
+file
+
+
+
+
+2009-03-19T12:59:51.000000Z
+105991f4817e58b56b0b916756872769
+2008-08-15T04:42:06.040658Z
+445
+rich@infoether.com
+

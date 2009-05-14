@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/digest/bubblebabble
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/digest/bubblebabble/depend
+END
+bubblebabble.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/digest/bubblebabble/bubblebabble.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/digest/bubblebabble/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/digest/bubblebabble/.cvsignore
+END

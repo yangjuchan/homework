@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/erb
+END
+test_erb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/erb/test_erb.rb
+END
+hello.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/erb/hello.erb
+END

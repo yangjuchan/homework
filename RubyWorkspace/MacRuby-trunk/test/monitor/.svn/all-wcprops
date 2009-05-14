@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/monitor
+END
+test_monitor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/monitor/test_monitor.rb
+END

@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/847/MacRuby/trunk/lib/hotcocoa/mappings
+END
+speech_synthesizer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/467/MacRuby/trunk/lib/hotcocoa/mappings/speech_synthesizer.rb
+END
+color.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/334/MacRuby/trunk/lib/hotcocoa/mappings/color.rb
+END
+text_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/607/MacRuby/trunk/lib/hotcocoa/mappings/text_view.rb
+END
+label.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/709/MacRuby/trunk/lib/hotcocoa/mappings/label.rb
+END
+timer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/636/MacRuby/trunk/lib/hotcocoa/mappings/timer.rb
+END
+toolbar_item.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/799/MacRuby/trunk/lib/hotcocoa/mappings/toolbar_item.rb
+END
+array_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/378/MacRuby/trunk/lib/hotcocoa/mappings/array_controller.rb
+END
+slider.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/354/MacRuby/trunk/lib/hotcocoa/mappings/slider.rb
+END
+split_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/366/MacRuby/trunk/lib/hotcocoa/mappings/split_view.rb
+END
+collection_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/620/MacRuby/trunk/lib/hotcocoa/mappings/collection_view.rb
+END
+box.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/366/MacRuby/trunk/lib/hotcocoa/mappings/box.rb
+END
+column.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/659/MacRuby/trunk/lib/hotcocoa/mappings/column.rb
+END
+status_item.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/467/MacRuby/trunk/lib/hotcocoa/mappings/status_item.rb
+END
+toolbar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/604/MacRuby/trunk/lib/hotcocoa/mappings/toolbar.rb
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/616/MacRuby/trunk/lib/hotcocoa/mappings/application.rb
+END
+font.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/640/MacRuby/trunk/lib/hotcocoa/mappings/font.rb
+END
+status_bar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/467/MacRuby/trunk/lib/hotcocoa/mappings/status_bar.rb
+END
+alert.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/520/MacRuby/trunk/lib/hotcocoa/mappings/alert.rb
+END
+combo_box.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/507/MacRuby/trunk/lib/hotcocoa/mappings/combo_box.rb
+END
+layout_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/799/MacRuby/trunk/lib/hotcocoa/mappings/layout_view.rb
+END
+web_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/490/MacRuby/trunk/lib/hotcocoa/mappings/web_view.rb
+END
+window.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/847/MacRuby/trunk/lib/hotcocoa/mappings/window.rb
+END
+movie_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/493/MacRuby/trunk/lib/hotcocoa/mappings/movie_view.rb
+END
+segmented_control.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/490/MacRuby/trunk/lib/hotcocoa/mappings/segmented_control.rb
+END
+movie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/316/MacRuby/trunk/lib/hotcocoa/mappings/movie.rb
+END
+control.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/799/MacRuby/trunk/lib/hotcocoa/mappings/control.rb
+END
+table_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/354/MacRuby/trunk/lib/hotcocoa/mappings/table_view.rb
+END
+menu_item.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/446/MacRuby/trunk/lib/hotcocoa/mappings/menu_item.rb
+END
+image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/607/MacRuby/trunk/lib/hotcocoa/mappings/image.rb
+END
+notification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/609/MacRuby/trunk/lib/hotcocoa/mappings/notification.rb
+END
+text_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/847/MacRuby/trunk/lib/hotcocoa/mappings/text_field.rb
+END
+sound.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/316/MacRuby/trunk/lib/hotcocoa/mappings/sound.rb
+END
+scroll_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/374/MacRuby/trunk/lib/hotcocoa/mappings/scroll_view.rb
+END
+secure_text_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/354/MacRuby/trunk/lib/hotcocoa/mappings/secure_text_field.rb
+END
+gradient.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/710/MacRuby/trunk/lib/hotcocoa/mappings/gradient.rb
+END
+progress_indicator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/847/MacRuby/trunk/lib/hotcocoa/mappings/progress_indicator.rb
+END
+popup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/354/MacRuby/trunk/lib/hotcocoa/mappings/popup.rb
+END
+menu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/446/MacRuby/trunk/lib/hotcocoa/mappings/menu.rb
+END
+view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/718/MacRuby/trunk/lib/hotcocoa/mappings/view.rb
+END
+button.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/466/MacRuby/trunk/lib/hotcocoa/mappings/button.rb
+END
+image_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/621/MacRuby/trunk/lib/hotcocoa/mappings/image_view.rb
+END
+xml_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/617/MacRuby/trunk/lib/hotcocoa/mappings/xml_parser.rb
+END

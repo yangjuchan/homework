@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal/util.rb
+END
+ludcmp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal/ludcmp.rb
+END
+jacobian.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal/jacobian.rb
+END
+math.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal/math.rb
+END
+newton.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/lib/bigdecimal/newton.rb
+END

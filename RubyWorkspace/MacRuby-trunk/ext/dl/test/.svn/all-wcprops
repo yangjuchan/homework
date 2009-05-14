@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test
+END
+test_dl2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_dl2.rb
+END
+test_win32.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_win32.rb
+END
+test_all.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_all.rb
+END
+test_base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_base.rb
+END
+test_import.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_import.rb
+END
+test_func.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/test/test_func.rb
+END

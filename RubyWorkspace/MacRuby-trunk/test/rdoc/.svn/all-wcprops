@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/rdoc
+END
+test_rdoc_ri_overstrike_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rdoc/test_rdoc_ri_overstrike_formatter.rb
+END
+test_rdoc_markup_attribute_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/rdoc/test_rdoc_markup_attribute_manager.rb
+END
+test_rdoc_ri_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/rdoc/test_rdoc_ri_formatter.rb
+END
+test_rdoc_c_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/rdoc/test_rdoc_c_parser.rb
+END
+test_rdoc_markup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rdoc/test_rdoc_markup.rb
+END
+test_rdoc_ri_attribute_formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rdoc/test_rdoc_ri_attribute_formatter.rb
+END
+test_rdoc_ri_default_display.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/rdoc/test_rdoc_ri_default_display.rb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/dbm
+END
+test_dbm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/dbm/test_dbm.rb
+END

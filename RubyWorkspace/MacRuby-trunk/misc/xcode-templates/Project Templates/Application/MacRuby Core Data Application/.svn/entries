@@ -1,0 +1,88 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/misc/xcode-templates/Project%20Templates/Application/MacRuby%20Core%20Data%20Application
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-10-27T07:39:28.783329Z
+679
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+MacRubyApp.xcodeproj
+dir
+
+main.m
+file
+
+
+
+
+2009-03-19T12:58:40.000000Z
+a30d999d4fcf19afc14d157671f73dae
+2008-10-27T07:33:42.931767Z
+677
+lsansonetti@apple.com
+has-props
+
+Info.plist
+file
+
+
+
+
+2009-03-19T12:58:40.000000Z
+9fb826baedf54a732198091d284eb17f
+2008-10-27T07:33:42.931767Z
+677
+lsansonetti@apple.com
+has-props
+
+MacRubyApp.xcdatamodel
+dir
+
+rb_main.rb
+file
+
+
+
+
+2009-03-19T12:58:40.000000Z
+b13def05ec9b678edaa8e829da0f74d5
+2008-10-27T07:33:42.931767Z
+677
+lsansonetti@apple.com
+has-props
+
+AppDelegate.rb
+file
+
+
+
+
+2009-03-19T12:58:40.000000Z
+6769cc6802bdc2c5230c186615ac32cd
+2008-10-27T07:38:09.936927Z
+678
+lsansonetti@apple.com
+
+English.lproj
+dir
+

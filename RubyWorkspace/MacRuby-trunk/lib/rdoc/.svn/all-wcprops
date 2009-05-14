@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/849/MacRuby/trunk/lib/rdoc
+END
+stats.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/stats.rb
+END
+markup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/markup.rb
+END
+code_objects.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/code_objects.rb
+END
+diagram.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/diagram.rb
+END
+dot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rdoc/dot.rb
+END
+generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator.rb
+END
+rdoc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/rdoc.rb
+END
+known_classes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/known_classes.rb
+END
+ri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/README
+END
+options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/options.rb
+END
+template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rdoc/template.rb
+END
+tokenstream.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rdoc/tokenstream.rb
+END
+parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/849/MacRuby/trunk/lib/rdoc/parser.rb
+END

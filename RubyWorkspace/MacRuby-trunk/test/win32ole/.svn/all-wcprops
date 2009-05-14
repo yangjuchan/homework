@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole
+END
+test_win32ole_param.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_param.rb
+END
+test_win32ole_variant.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_variant.rb
+END
+test_win32ole_typelib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_typelib.rb
+END
+test_nil2vtempty.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_nil2vtempty.rb
+END
+test_win32ole_variant_with_ie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_variant_with_ie.rb
+END
+test_win32ole_variant_m.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_variant_m.rb
+END
+test_win32ole_method.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_method.rb
+END
+test_win32ole.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole.rb
+END
+test_ole_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_ole_methods.rb
+END
+test_win32ole_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_type.rb
+END
+test_win32ole_event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_event.rb
+END
+test_folderitem2_invokeverb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_folderitem2_invokeverb.rb
+END
+test_win32ole_variable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_win32ole_variable.rb
+END
+test_propertyputref.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_propertyputref.rb
+END
+test_word.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/win32ole/test_word.rb
+END

@@ -1,0 +1,67 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/zlib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-09-03T07:16:08.120531Z
+545
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+zlib.c
+file
+
+
+
+
+2009-03-19T12:59:36.000000Z
+0c0192fa8b27f17a29a808def7d2a86f
+2008-09-03T07:16:08.120531Z
+545
+lsansonetti@apple.com
+
+doc
+dir
+
+extconf.rb
+file
+
+
+
+
+2009-03-19T12:59:36.000000Z
+76059fd1024dc255a675ed75b9f24302
+2008-06-05T08:11:58.344167Z
+247
+lsansonetti@apple.com
+
+.cvsignore
+file
+
+
+
+
+2009-03-19T12:59:36.000000Z
+bccdbd5938133795640ee1d4ac57fbcd
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

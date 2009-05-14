@@ -1,0 +1,94 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-07T05:20:57.277454Z
+846
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+FlickrDemo
+dir
+
+DotView
+dir
+
+AnimatingViews
+dir
+
+About MacRuby Examples.rtf
+file
+
+
+
+
+2009-03-19T13:01:40.000000Z
+d3733f945699229a408c8ded10854e71
+2009-03-07T05:08:47.114496Z
+844
+lsansonetti@apple.com
+
+Scripts
+dir
+
+buildall.rb
+file
+
+
+
+
+2009-03-19T13:01:40.000000Z
+5bf3bd537c4f49557e19c9c1eba5bcb8
+2008-06-16T02:24:16.350730Z
+293
+lsansonetti@apple.com
+
+CircleView
+dir
+
+HotCocoa
+dir
+
+ViewModelDemo
+dir
+
+RoundTransparentWindow
+dir
+
+PathDemo
+dir
+
+PagePacker
+dir
+
+DTrace
+dir
+
+ABPresence
+dir
+
+OutlineView
+dir
+
+EmbeddedMacRuby
+dir
+

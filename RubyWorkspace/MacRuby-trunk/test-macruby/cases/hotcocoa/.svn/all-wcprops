@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/816/MacRuby/trunk/test-macruby/cases/hotcocoa
+END
+mappings_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/816/MacRuby/trunk/test-macruby/cases/hotcocoa/mappings_test.rb
+END
+mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/800/MacRuby/trunk/test-macruby/cases/hotcocoa/mapper_test.rb
+END
+object_ext_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/807/MacRuby/trunk/test-macruby/cases/hotcocoa/object_ext_test.rb
+END
+plist_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/809/MacRuby/trunk/test-macruby/cases/hotcocoa/plist_test.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/CircleView
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/250/MacRuby/trunk/sample-macruby/CircleView/main.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/44/MacRuby/trunk/sample-macruby/CircleView/Info.plist
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/44/MacRuby/trunk/sample-macruby/CircleView/rb_main.rb
+END
+CircleView.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/558/MacRuby/trunk/sample-macruby/CircleView/CircleView.rb
+END

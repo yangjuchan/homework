@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/json/ext/generator
+END
+generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/json/ext/generator/generator.c
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/ext/generator/unicode.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/ext/generator/extconf.rb
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/ext/generator/unicode.h
+END

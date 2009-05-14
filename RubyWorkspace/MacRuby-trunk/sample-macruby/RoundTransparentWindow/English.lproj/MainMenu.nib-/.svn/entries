@@ -1,0 +1,54 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/RoundTransparentWindow/English.lproj/MainMenu.nib-
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-07T05:08:47.114496Z
+844
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+keyedobjects.nib
+file
+
+
+
+
+2009-03-19T13:01:03.000000Z
+8d630496d206f357f11191f8937db218
+2009-03-07T05:08:47.114496Z
+844
+lsansonetti@apple.com
+has-props
+
+designable.nib
+file
+
+
+
+
+2009-03-19T13:01:03.000000Z
+463bbc0f2f178ed2ea54da903b6b337c
+2009-03-07T05:08:47.114496Z
+844
+lsansonetti@apple.com
+has-props
+

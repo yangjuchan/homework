@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse
+END
+test_placearg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_placearg.rb
+END
+test_reqarg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_reqarg.rb
+END
+test_getopts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_getopts.rb
+END
+test_noarg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_noarg.rb
+END
+test_optarg.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_optarg.rb
+END
+test_optparse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/optparse/test_optparse.rb
+END

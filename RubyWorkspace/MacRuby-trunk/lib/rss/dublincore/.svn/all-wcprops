@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/dublincore
+END
+1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/dublincore/1.0.rb
+END
+2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/dublincore/2.0.rb
+END
+atom.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/dublincore/atom.rb
+END

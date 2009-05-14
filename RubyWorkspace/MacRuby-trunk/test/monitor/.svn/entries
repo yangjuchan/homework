@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/test/monitor
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+test_monitor.rb
+file
+
+
+
+
+2009-03-19T12:59:54.000000Z
+3707cb1dd7ad167f1e3a491b1deacfab
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

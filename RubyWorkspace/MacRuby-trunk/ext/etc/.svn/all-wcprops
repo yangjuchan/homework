@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/depend
+END
+etc.txt.ja
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/etc.txt.ja
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/extconf.rb
+END
+etc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/etc.txt
+END
+etc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/etc.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/etc/.cvsignore
+END

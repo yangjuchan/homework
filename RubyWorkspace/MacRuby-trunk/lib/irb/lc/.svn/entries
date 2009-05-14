@@ -1,0 +1,55 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/irb/lc
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+ja
+dir
+
+help-message
+file
+
+
+
+
+2009-03-19T12:59:07.000000Z
+a1af7282b42e2dd91b7ee7174242b173
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+error.rb
+file
+
+
+
+
+2009-03-19T12:59:07.000000Z
+d7f5109a41226e97c8e72110aeef0b3a
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

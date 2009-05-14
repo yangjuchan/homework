@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick
+END
+test_httpproxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httpproxy.rb
+END
+test_httpversion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httpversion.rb
+END
+webrick.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/webrick.cgi
+END
+test_httprequest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httprequest.rb
+END
+test_utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_utils.rb
+END
+test_httputils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httputils.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick/utils.rb
+END
+test_httpauth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httpauth.rb
+END
+test_cgi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick/test_cgi.rb
+END
+webrick_long_filename.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick/webrick_long_filename.cgi
+END
+test_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_server.rb
+END
+test_httpserver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_httpserver.rb
+END
+test_cookie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/webrick/test_cookie.rb
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick/.htaccess
+END
+test_filehandler.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/webrick/test_filehandler.rb
+END

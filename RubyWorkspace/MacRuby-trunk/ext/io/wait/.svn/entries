@@ -1,0 +1,67 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/io/wait
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+wait.c
+file
+
+
+
+
+2009-03-19T12:59:47.000000Z
+68338644f1c2adc2ba30fd31e4e019fb
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+lib
+dir
+
+extconf.rb
+file
+
+
+
+
+2009-03-19T12:59:47.000000Z
+dcb1fd0d06f51793b924c5b96d026d5e
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+.cvsignore
+file
+
+
+
+
+2009-03-19T12:59:47.000000Z
+76dbc7eeccd09e6eb0f3c709e2205fe5
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

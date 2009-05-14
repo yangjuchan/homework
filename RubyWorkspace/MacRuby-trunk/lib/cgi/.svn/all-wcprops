@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi/util.rb
+END
+session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi/session.rb
+END
+html.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi/html.rb
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi/core.rb
+END
+cookie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/cgi/cookie.rb
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/cgi/.document
+END

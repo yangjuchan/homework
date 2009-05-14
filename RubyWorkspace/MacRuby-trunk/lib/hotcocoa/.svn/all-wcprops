@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/901/MacRuby/trunk/lib/hotcocoa
+END
+mappings.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/808/MacRuby/trunk/lib/hotcocoa/mappings.rb
+END
+mapping_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/316/MacRuby/trunk/lib/hotcocoa/mapping_methods.rb
+END
+delegate_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/641/MacRuby/trunk/lib/hotcocoa/delegate_builder.rb
+END
+behaviors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/799/MacRuby/trunk/lib/hotcocoa/behaviors.rb
+END
+mapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/816/MacRuby/trunk/lib/hotcocoa/mapper.rb
+END
+object_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/807/MacRuby/trunk/lib/hotcocoa/object_ext.rb
+END
+virtual_file_system.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/469/MacRuby/trunk/lib/hotcocoa/virtual_file_system.rb
+END
+notification_listener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/608/MacRuby/trunk/lib/hotcocoa/notification_listener.rb
+END
+plist.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/638/MacRuby/trunk/lib/hotcocoa/plist.rb
+END
+attributed_string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/749/MacRuby/trunk/lib/hotcocoa/attributed_string.rb
+END
+kernel_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/316/MacRuby/trunk/lib/hotcocoa/kernel_ext.rb
+END
+graphics.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/686/MacRuby/trunk/lib/hotcocoa/graphics.rb
+END
+kvo_accessors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/743/MacRuby/trunk/lib/hotcocoa/kvo_accessors.rb
+END
+layout_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/659/MacRuby/trunk/lib/hotcocoa/layout_view.rb
+END
+standard_rake_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/799/MacRuby/trunk/lib/hotcocoa/standard_rake_tasks.rb
+END
+application_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/822/MacRuby/trunk/lib/hotcocoa/application_builder.rb
+END
+template.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/824/MacRuby/trunk/lib/hotcocoa/template.rb
+END

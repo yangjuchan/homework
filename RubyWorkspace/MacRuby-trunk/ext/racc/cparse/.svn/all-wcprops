@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/racc/cparse
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/racc/cparse/depend
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/racc/cparse/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/racc/cparse/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/racc/cparse/README
+END
+cparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/racc/cparse/cparse.c
+END

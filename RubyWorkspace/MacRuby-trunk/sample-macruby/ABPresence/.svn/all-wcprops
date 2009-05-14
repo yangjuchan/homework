@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/ABPresence
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/71/MacRuby/trunk/sample-macruby/ABPresence/main.m
+END
+ServiceWatcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/ABPresence/ServiceWatcher.rb
+END
+PeopleDataSource.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/ABPresence/PeopleDataSource.rb
+END
+ABPersonDisplayName.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/ruby/!svn/ver/73/MacRuby/trunk/sample-macruby/ABPresence/ABPersonDisplayName.rb
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/71/MacRuby/trunk/sample-macruby/ABPresence/Info.plist
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/71/MacRuby/trunk/sample-macruby/ABPresence/rb_main.rb
+END

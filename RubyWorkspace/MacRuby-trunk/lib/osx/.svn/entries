@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/osx
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-07-10T19:39:10.044493Z
+360
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+cocoa.rb
+file
+
+
+
+
+2009-03-19T12:59:19.000000Z
+39fdbd4b47767ca3ad4211a84df00156
+2008-06-23T23:05:58.914935Z
+305
+eloy.de.enige@gmail.com
+
+rubycocoa.rb
+file
+
+
+
+
+2009-03-19T12:59:19.000000Z
+70cbdd59a6bd26fcd7d3345c5ddc14a4
+2008-07-10T19:39:10.044493Z
+360
+lsansonetti@apple.com
+

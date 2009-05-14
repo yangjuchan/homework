@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/rdoc/generator/xml
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+xml.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+3b351e40266943252f34f007dce768b9
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+rdf.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+200f23bc1928cc7ea445d231b7aa02cf
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

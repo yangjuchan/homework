@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rubygems/fake_certlib
+END
+openssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rubygems/fake_certlib/openssl.rb
+END

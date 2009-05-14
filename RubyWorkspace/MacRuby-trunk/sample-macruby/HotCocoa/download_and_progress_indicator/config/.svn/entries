@@ -1,0 +1,41 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/HotCocoa/download_and_progress_indicator/config
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-07T05:16:43.226608Z
+845
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+build.yml
+file
+
+
+
+
+2009-03-19T13:00:55.000000Z
+cf63b46d892b8ea2a7a5af3536ddeea3
+2009-03-07T05:16:43.226608Z
+845
+lsansonetti@apple.com
+has-props
+

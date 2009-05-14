@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri
+END
+test_http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_http.rb
+END
+test_ldap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_ldap.rb
+END
+test_mailto.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_mailto.rb
+END
+test_common.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_common.rb
+END
+test_ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_ftp.rb
+END
+test_generic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/uri/test_generic.rb
+END

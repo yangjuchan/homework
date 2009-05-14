@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repository/ruby/!svn/ver/6/MacRuby/trunk/x68
+END
+select.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/x68/select.c
+END
+_dtos18.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/x68/_dtos18.c
+END
+_round.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/x68/_round.c
+END
+fconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/x68/fconvert.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fcntl
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fcntl/depend
+END
+fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fcntl/fcntl.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fcntl/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fcntl/.cvsignore
+END

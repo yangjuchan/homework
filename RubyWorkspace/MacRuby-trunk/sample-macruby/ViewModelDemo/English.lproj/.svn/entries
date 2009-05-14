@@ -1,0 +1,44 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/ViewModelDemo/English.lproj
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-06-06T00:42:18.806197Z
+252
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+InfoPlist.strings
+file
+
+
+
+
+2009-03-19T13:00:58.000000Z
+46dcefa535b315ba589cda2c2fc6c4b0
+2008-06-06T00:42:18.806197Z
+252
+lsansonetti@apple.com
+has-props
+
+MainMenu.nib
+dir
+

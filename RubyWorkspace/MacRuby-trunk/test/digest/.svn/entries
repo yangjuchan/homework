@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/test/digest
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+test_digest.rb
+file
+
+
+
+
+2009-03-19T12:59:51.000000Z
+85a2d5fd6abf1d8a6b119398ddcb7fb0
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+test_digest_hmac.rb
+file
+
+
+
+
+2009-03-19T12:59:51.000000Z
+00b6bdbb5e8afc9a60321017f9e5854e
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

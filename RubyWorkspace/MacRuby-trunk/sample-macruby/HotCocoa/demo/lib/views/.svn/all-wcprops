@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/660/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views
+END
+buttons.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/ruby/!svn/ver/519/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/buttons.rb
+END
+table_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/ruby/!svn/ver/660/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/table_view.rb
+END
+controls.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/ruby/!svn/ver/504/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/controls.rb
+END
+collection_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/ruby/!svn/ver/501/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/collection_view.rb
+END
+web_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/ruby/!svn/ver/491/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/web_view.rb
+END
+movie_view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repository/ruby/!svn/ver/501/MacRuby/trunk/sample-macruby/HotCocoa/demo/lib/views/movie_view.rb
+END

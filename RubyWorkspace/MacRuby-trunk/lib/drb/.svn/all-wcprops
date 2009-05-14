@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/drb
+END
+extservm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/extservm.rb
+END
+gw.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/gw.rb
+END
+acl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/acl.rb
+END
+extserv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/extserv.rb
+END
+ssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/ssl.rb
+END
+timeridconv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/timeridconv.rb
+END
+unix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/unix.rb
+END
+eq.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/eq.rb
+END
+drb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/drb/drb.rb
+END
+observer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/observer.rb
+END
+invokemethod.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/drb/invokemethod.rb
+END

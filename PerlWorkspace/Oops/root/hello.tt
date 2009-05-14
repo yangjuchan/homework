@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>[% title %]</title>
+</head>
+<body>
+[% name1 %] ♥ [% name2 %]<br/>
+정말인가요? ㅋㅋㅋ<br/>
+</body>
+</html>

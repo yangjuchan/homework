@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/808/MacRuby/trunk/test-macruby/test_helper
+END
+test_unit_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/793/MacRuby/trunk/test-macruby/test_helper/test_unit_helper.rb
+END
+mini-test-spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/793/MacRuby/trunk/test-macruby/test_helper/mini-test-spec.rb
+END
+temp_dir_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/793/MacRuby/trunk/test-macruby/test_helper/temp_dir_helper.rb
+END
+assertions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/808/MacRuby/trunk/test-macruby/test_helper/assertions_helper.rb
+END
+objective-c_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/test_helper/objective-c_helper.rb
+END

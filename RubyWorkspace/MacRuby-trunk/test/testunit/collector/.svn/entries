@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/test/testunit/collector
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+test_dir.rb
+file
+
+
+
+
+2009-03-19T12:59:53.000000Z
+9f1cb67ddfa9d65ff6fa253f2c67ed8b
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+test_objectspace.rb
+file
+
+
+
+
+2009-03-19T12:59:53.000000Z
+8e9dc4ae0ddd4962419fe00bcd54f835
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

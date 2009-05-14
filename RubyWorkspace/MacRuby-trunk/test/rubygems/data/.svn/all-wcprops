@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rubygems/data
+END
+gem-public_cert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rubygems/data/gem-public_cert.pem
+END
+gem-private_key.pem
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rubygems/data/gem-private_key.pem
+END

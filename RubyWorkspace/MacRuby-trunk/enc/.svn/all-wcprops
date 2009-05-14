@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc
+END
+koi8_u.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/koi8_u.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/Makefile.in
+END
+gbk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/gbk.c
+END
+euc_jp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/euc_jp.c
+END
+cp949.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/cp949.c
+END
+prelude.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/prelude.rb
+END
+make_encmake.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/make_encmake.rb
+END
+shift_jis.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/shift_jis.c
+END
+utf_8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_8.c
+END
+big5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/big5.c
+END
+euc_tw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/euc_tw.c
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/unicode.c
+END
+iso_8859_10.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_10.c
+END
+ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/ascii.c
+END
+iso_8859_11.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_11.c
+END
+utf_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_7.h
+END
+iso_8859_13.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_13.c
+END
+iso_8859_14.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_14.c
+END
+iso_8859_15.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_15.c
+END
+iso_8859_16.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_16.c
+END
+us_ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/us_ascii.c
+END
+gb2312.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/gb2312.c
+END
+windows_1251.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/windows_1251.c
+END
+iso_8859_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_1.c
+END
+iso_8859_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_2.c
+END
+euc_kr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/euc_kr.c
+END
+iso_8859_3.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_3.c
+END
+utf_32be.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_32be.c
+END
+iso_8859_4.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_4.c
+END
+iso_8859_5.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_5.c
+END
+utf_16be.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_16be.c
+END
+iso_8859_6.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_6.c
+END
+iso_8859_7.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_7.c
+END
+iso_8859_8.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_8.c
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/depend
+END
+iso_8859_9.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_8859_9.c
+END
+utf_32le.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_32le.c
+END
+gb18030.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/gb18030.c
+END
+utf_16le.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/utf_16le.c
+END
+make_encdb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/make_encdb.rb
+END
+koi8_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/koi8_r.c
+END
+iso_2022_jp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/iso_2022_jp.h
+END

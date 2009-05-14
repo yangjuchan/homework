@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/test/pathname
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+test_pathname.rb
+file
+
+
+
+
+2009-03-19T12:59:55.000000Z
+513b9e57f70727e9277a07978c015aac
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/depend
+END
+curses.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/curses.c
+END
+hello.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/hello.rb
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/extconf.rb
+END
+mouse.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/mouse.rb
+END
+rain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/rain.rb
+END
+view.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/view.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/.cvsignore
+END
+view2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/curses/view2.rb
+END

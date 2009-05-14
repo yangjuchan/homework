@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/713/MacRuby/trunk/sample-macruby/DTrace
+END
+collected_objects64.d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/713/MacRuby/trunk/sample-macruby/DTrace/collected_objects64.d
+END
+insns_count.d
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/645/MacRuby/trunk/sample-macruby/DTrace/insns_count.d
+END
+collected_objects.d
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/713/MacRuby/trunk/sample-macruby/DTrace/collected_objects.d
+END
+methods_duration.d
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/645/MacRuby/trunk/sample-macruby/DTrace/methods_duration.d
+END
+gc.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/645/MacRuby/trunk/sample-macruby/DTrace/gc.d
+END
+methods_count.d
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/645/MacRuby/trunk/sample-macruby/DTrace/methods_count.d
+END

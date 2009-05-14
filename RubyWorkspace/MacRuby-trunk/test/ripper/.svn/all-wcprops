@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/ripper
+END
+test_parser_events.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/ripper/test_parser_events.rb
+END
+test_files.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/ripper/test_files.rb
+END
+dummyparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/ripper/dummyparser.rb
+END
+test_scanner_events.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/ripper/test_scanner_events.rb
+END

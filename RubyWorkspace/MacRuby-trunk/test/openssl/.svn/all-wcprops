@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/openssl
+END
+test_digest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_digest.rb
+END
+test_x509store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509store.rb
+END
+test_x509cert.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509cert.rb
+END
+test_x509ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509ext.rb
+END
+test_pkcs7.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_pkcs7.rb
+END
+test_ec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_ec.rb
+END
+ssl_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/ssl_server.rb
+END
+test_pair.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_pair.rb
+END
+test_ssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/openssl/test_ssl.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/openssl/utils.rb
+END
+test_asn1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_asn1.rb
+END
+test_x509name.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509name.rb
+END
+test_x509crl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509crl.rb
+END
+test_ns_spki.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_ns_spki.rb
+END
+test_hmac.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_hmac.rb
+END
+test_cipher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_cipher.rb
+END
+test_x509req.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_x509req.rb
+END
+test_pkey_rsa.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/openssl/test_pkey_rsa.rb
+END

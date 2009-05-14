@@ -1,0 +1,41 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/framework
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-06-12T03:04:36.976333Z
+282
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+InfoPlist.strings
+file
+
+
+
+
+2009-03-19T12:59:27.000000Z
+563d54c5d97b218ab7b0dc6d66cc4b5a
+2008-03-11T16:59:00.533188Z
+64
+lsansonetti@apple.com
+has-props
+

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl
+END
+ossl_pkey_dsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_pkey_dsa.c
+END
+ossl_x509attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_x509attr.c
+END
+ossl_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_ssl.c
+END
+ossl_ocsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/openssl/ossl_ocsp.c
+END
+ossl_engine.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_engine.c
+END
+ossl_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_config.c
+END
+ossl_ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_ssl.h
+END
+ossl_hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_hmac.c
+END
+ossl_ocsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_ocsp.h
+END
+ossl_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_engine.h
+END
+ossl_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_config.h
+END
+ossl_cipher.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_cipher.c
+END
+ossl_hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_hmac.h
+END
+ossl_pkey_rsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_pkey_rsa.c
+END
+ossl_x509req.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/openssl/ossl_x509req.c
+END
+ossl_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_digest.c
+END
+ossl_cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_cipher.h
+END
+ossl_pkey_ec.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_pkey_ec.c
+END
+ruby_missing.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ruby_missing.h
+END
+ossl.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl.c
+END
+ossl_x509store.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_x509store.c
+END
+ossl_digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_digest.h
+END
+ossl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/.cvsignore
+END
+ossl_bn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_bn.c
+END
+ossl_asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_asn1.c
+END
+ossl_pkcs12.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkcs12.c
+END
+ossl_bn.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_bn.h
+END
+ossl_ssl_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_ssl_session.c
+END
+ossl_x509.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_x509.c
+END
+ossl_x509crl.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/openssl/ossl_x509crl.c
+END
+ossl_ns_spki.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_ns_spki.c
+END
+ossl_x509name.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/98/MacRuby/trunk/ext/openssl/ossl_x509name.c
+END
+ossl_asn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_asn1.h
+END
+ossl_pkcs12.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkcs12.h
+END
+ossl_pkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkey.c
+END
+ossl_bio.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_bio.c
+END
+ossl_x509.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_x509.h
+END
+ossl_ns_spki.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_ns_spki.h
+END
+openssl_missing.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/openssl_missing.c
+END
+ossl_pkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkey.h
+END
+ossl_bio.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_bio.h
+END
+openssl_missing.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/openssl_missing.h
+END
+ossl_pkey_dh.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_pkey_dh.c
+END
+ossl_x509cert.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/openssl/ossl_x509cert.c
+END
+ossl_rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_rand.c
+END
+ossl_pkcs5.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/openssl/ossl_pkcs5.c
+END
+ossl_x509revoked.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/openssl/ossl_x509revoked.c
+END
+ossl_x509ext.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_x509ext.c
+END
+ossl_pkcs7.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkcs7.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/extconf.rb
+END
+ossl_rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_rand.h
+END
+ossl_pkcs5.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkcs5.h
+END
+ossl_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/ossl_version.h
+END
+ossl_pkcs7.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/ossl_pkcs7.h
+END

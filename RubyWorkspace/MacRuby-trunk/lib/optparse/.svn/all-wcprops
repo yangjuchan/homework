@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/optparse
+END
+date.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/optparse/date.rb
+END
+time.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/optparse/time.rb
+END
+uri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/optparse/uri.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/optparse/version.rb
+END
+shellwords.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/optparse/shellwords.rb
+END

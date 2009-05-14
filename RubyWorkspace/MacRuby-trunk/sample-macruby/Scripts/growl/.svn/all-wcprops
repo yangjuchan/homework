@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/631/MacRuby/trunk/sample-macruby/Scripts/growl
+END
+hotcocoa_sample.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/ruby/!svn/ver/631/MacRuby/trunk/sample-macruby/Scripts/growl/hotcocoa_sample.rb
+END
+growl_block_sample.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/ruby/!svn/ver/628/MacRuby/trunk/sample-macruby/Scripts/growl/growl_block_sample.rb
+END
+growl_delegate_sample.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repository/ruby/!svn/ver/628/MacRuby/trunk/sample-macruby/Scripts/growl/growl_delegate_sample.rb
+END
+hotcocoa_growl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/631/MacRuby/trunk/sample-macruby/Scripts/growl/hotcocoa_growl.rb
+END
+growl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/628/MacRuby/trunk/sample-macruby/Scripts/growl/growl.rb
+END
+growl_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/627/MacRuby/trunk/sample-macruby/Scripts/growl/growl_helpers.rb
+END

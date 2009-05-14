@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb
+END
+ut_drb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_drb.rb
+END
+ut_array_drbunix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_array_drbunix.rb
+END
+ut_array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_array.rb
+END
+ut_timerholder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_timerholder.rb
+END
+ut_drb_drbssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_drb_drbssl.rb
+END
+test_drbssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/test_drbssl.rb
+END
+ut_port.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_port.rb
+END
+test_acl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/test_acl.rb
+END
+ut_eval.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_eval.rb
+END
+ut_array_drbssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_array_drbssl.rb
+END
+ut_large.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_large.rb
+END
+test_drb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/test_drb.rb
+END
+ut_safe1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_safe1.rb
+END
+drbtest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/drbtest.rb
+END
+ignore_test_drb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ignore_test_drb.rb
+END
+ut_drb_drbunix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/ut_drb_drbunix.rb
+END
+test_drbunix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/drb/test_drbunix.rb
+END

@@ -1,0 +1,68 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/PagePacker/English.lproj
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+InfoPlist.strings
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+887b98105e8126084ce761f86d40b432
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+has-props
+
+MainMenu.nib
+dir
+
+CatalogController.nib
+dir
+
+Credits.rtf
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+aebc03d46af1196d48e37a1e3a63b545
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+PreferenceController.nib
+dir
+
+MyDocument.nib
+dir
+
+PagePackerHelp
+dir
+

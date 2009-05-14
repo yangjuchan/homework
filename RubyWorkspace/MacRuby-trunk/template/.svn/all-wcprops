@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/247/MacRuby/trunk/template
+END
+yarvarch.en
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/yarvarch.en
+END
+yasmdata.rb.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/yasmdata.rb.tmpl
+END
+vm.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/vm.inc.tmpl
+END
+insns_info.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/199/MacRuby/trunk/template/insns_info.inc.tmpl
+END
+yarvarch.ja
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/yarvarch.ja
+END
+minsns.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/minsns.inc.tmpl
+END
+opt_sc.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/199/MacRuby/trunk/template/opt_sc.inc.tmpl
+END
+optunifs.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/template/optunifs.inc.tmpl
+END
+vmtc.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/vmtc.inc.tmpl
+END
+insns.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/247/MacRuby/trunk/template/insns.inc.tmpl
+END
+optinsn.inc.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/template/optinsn.inc.tmpl
+END

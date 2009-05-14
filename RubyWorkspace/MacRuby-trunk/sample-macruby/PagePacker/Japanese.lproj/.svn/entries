@@ -1,0 +1,59 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/PagePacker/Japanese.lproj
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+InfoPlist.strings
+file
+
+
+
+
+2009-03-19T13:01:16.000000Z
+503b02bf710f69136bc65c133bd75c2f
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+has-props
+
+MainMenu.nib
+dir
+
+Credits.rtf
+file
+
+
+
+
+2009-03-19T13:01:16.000000Z
+f0d4a61caf597423ff07c5e9b24a345e
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+MyDocument.nib
+dir
+

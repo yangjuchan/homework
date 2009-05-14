@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/rubygems/package/tar_reader
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-05-22T06:33:11.473857Z
+209
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+entry.rb
+file
+
+
+
+
+2009-03-19T12:59:05.000000Z
+b6b29408c8e50f1ebf275fcb92309be6
+2008-05-22T06:33:11.473857Z
+209
+lsansonetti@apple.com
+

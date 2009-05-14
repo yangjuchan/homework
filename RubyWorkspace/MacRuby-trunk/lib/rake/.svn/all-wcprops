@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake
+END
+classic_namespace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rake/classic_namespace.rb
+END
+packagetask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/packagetask.rb
+END
+clean.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rake/clean.rb
+END
+testtask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/testtask.rb
+END
+win32.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/win32.rb
+END
+runtest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rake/runtest.rb
+END
+gempackagetask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/gempackagetask.rb
+END
+rake_test_loader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rake/rake_test_loader.rb
+END
+tasklib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/tasklib.rb
+END
+rdoctask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rake/rdoctask.rb
+END

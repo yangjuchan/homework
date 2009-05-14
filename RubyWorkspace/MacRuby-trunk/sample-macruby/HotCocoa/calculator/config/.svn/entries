@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/HotCocoa/calculator/config
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-26T03:23:42.356801Z
+484
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+build.yml
+file
+
+
+
+
+2009-03-19T13:00:55.000000Z
+d3c445223e9e65b8a30f1e05ca4b3197
+2008-08-26T03:23:42.356801Z
+484
+rich@infoether.com
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/816/MacRuby/trunk/test-macruby
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/test_helper.rb
+END
+runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/runner.rb
+END

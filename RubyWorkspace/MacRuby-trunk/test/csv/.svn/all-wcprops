@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv
+END
+tc_row.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_row.rb
+END
+tc_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_table.rb
+END
+ts_all.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/ts_all.rb
+END
+tc_headers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_headers.rb
+END
+tc_serialization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_serialization.rb
+END
+tc_csv_parsing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_csv_parsing.rb
+END
+tc_csv_writing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_csv_writing.rb
+END
+tc_features.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_features.rb
+END
+tc_interface.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_interface.rb
+END
+tc_data_converters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/tc_data_converters.rb
+END
+line_endings.gz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/csv/line_endings.gz
+END

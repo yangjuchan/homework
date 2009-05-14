@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands
+END
+specification_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/specification_command.rb
+END
+generate_index_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/commands/generate_index_command.rb
+END
+unpack_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/unpack_command.rb
+END
+update_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/update_command.rb
+END
+sources_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/sources_command.rb
+END
+cleanup_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/commands/cleanup_command.rb
+END
+rdoc_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/rdoc_command.rb
+END
+lock_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/lock_command.rb
+END
+help_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/help_command.rb
+END
+fetch_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/fetch_command.rb
+END
+pristine_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/pristine_command.rb
+END
+contents_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/contents_command.rb
+END
+cert_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/cert_command.rb
+END
+build_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/commands/build_command.rb
+END
+which_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/which_command.rb
+END
+environment_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/environment_command.rb
+END
+query_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/query_command.rb
+END
+search_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/commands/search_command.rb
+END
+install_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/install_command.rb
+END
+server_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/commands/server_command.rb
+END
+stale_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/stale_command.rb
+END
+outdated_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/outdated_command.rb
+END
+uninstall_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/commands/uninstall_command.rb
+END
+mirror_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/commands/mirror_command.rb
+END
+list_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/list_command.rb
+END
+check_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/check_command.rb
+END
+dependency_command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/commands/dependency_command.rb
+END

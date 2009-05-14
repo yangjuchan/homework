@@ -1,0 +1,130 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/digest
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-05-18T08:10:19.751876Z
+199
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+depend
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+7ff39122520617fbdab9b050f2c9a9c0
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+digest.c
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+6621c76649fe447ecb827716cffa6f3a
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+bubblebabble
+dir
+
+md5
+dir
+
+digest.h
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+1f51bd7a9ad10c35f63c4f2590d0a366
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+lib
+dir
+
+defs.h
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+5b6f8431e3f70dc83ff740bfb8f0bde4
+2008-05-18T08:10:19.751876Z
+199
+lsansonetti@apple.com
+
+extconf.rb
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+1e31af116b2c3683fdbd8a2f73c24f7d
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+test.sh
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+8844b4cc434c45c58627892e7d58605c
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+rmd160
+dir
+
+sha1
+dir
+
+sha2
+dir
+
+.cvsignore
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+bccdbd5938133795640ee1d4ac57fbcd
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

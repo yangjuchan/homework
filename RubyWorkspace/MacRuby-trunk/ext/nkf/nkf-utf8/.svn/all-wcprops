@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/nkf/nkf-utf8
+END
+nkf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/247/MacRuby/trunk/ext/nkf/nkf-utf8/nkf.c
+END
+nkf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/nkf-utf8/nkf.h
+END
+utf8tbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/nkf-utf8/utf8tbl.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/nkf-utf8/config.h
+END
+utf8tbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/nkf-utf8/utf8tbl.h
+END

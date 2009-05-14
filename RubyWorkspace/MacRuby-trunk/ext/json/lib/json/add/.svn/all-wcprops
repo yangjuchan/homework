@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/add
+END
+core.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/add/core.rb
+END
+rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/add/rails.rb
+END

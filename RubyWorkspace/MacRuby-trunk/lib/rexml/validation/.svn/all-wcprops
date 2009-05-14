@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/validation
+END
+relaxng.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/validation/relaxng.rb
+END
+validationexception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/validation/validationexception.rb
+END
+validation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/validation/validation.rb
+END

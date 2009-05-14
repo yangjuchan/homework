@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo
+END
+file.texinfo.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo/file.texinfo.erb
+END
+method.texinfo.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo/method.texinfo.erb
+END
+texinfo.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo/texinfo.erb
+END
+class.texinfo.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo/class.texinfo.erb
+END

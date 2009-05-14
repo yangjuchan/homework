@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/360/MacRuby/trunk/lib/osx
+END
+cocoa.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/305/MacRuby/trunk/lib/osx/cocoa.rb
+END
+rubycocoa.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/360/MacRuby/trunk/lib/osx/rubycocoa.rb
+END

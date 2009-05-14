@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/json/lib/json/add
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+core.rb
+file
+
+
+
+
+2009-03-19T12:59:38.000000Z
+72388f00ee1685d6f3f5e24dc999d53e
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+rails.rb
+file
+
+
+
+
+2009-03-19T12:59:38.000000Z
+799dedf1764e71cec70c5ce390dd9611
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

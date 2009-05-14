@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/io/wait
+END
+wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/io/wait/wait.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/io/wait/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/io/wait/.cvsignore
+END

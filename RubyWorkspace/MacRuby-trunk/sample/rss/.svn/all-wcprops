@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss
+END
+list_description.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss/list_description.rb
+END
+convert.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss/convert.rb
+END
+re_read.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss/re_read.rb
+END
+blend.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss/blend.rb
+END
+rss_recent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/sample/rss/rss_recent.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/collector
+END
+test_dir.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/collector/test_dir.rb
+END
+test_objectspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/collector/test_objectspace.rb
+END

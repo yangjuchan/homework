@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/PathDemo
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/508/MacRuby/trunk/sample-macruby/PathDemo/main.m
+END
+DemoView.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/521/MacRuby/trunk/sample-macruby/PathDemo/DemoView.rb
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/81/MacRuby/trunk/sample-macruby/PathDemo/Info.plist
+END
+PathDemoController.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/558/MacRuby/trunk/sample-macruby/PathDemo/PathDemoController.rb
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/81/MacRuby/trunk/sample-macruby/PathDemo/rb_main.rb
+END

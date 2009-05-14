@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/pure
+END
+generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/pure/generator.rb
+END
+parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/json/lib/json/pure/parser.rb
+END

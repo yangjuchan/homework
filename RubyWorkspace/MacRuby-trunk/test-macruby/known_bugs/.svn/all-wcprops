@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/known_bugs
+END
+known_bugs_in_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/known_bugs/known_bugs_in_c.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/known_bugs/extconf.rb
+END
+known_bugs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/792/MacRuby/trunk/test-macruby/known_bugs/known_bugs.rb
+END

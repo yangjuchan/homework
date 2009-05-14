@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/262/MacRuby/trunk/misc/release/License
+END
+GPL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/262/MacRuby/trunk/misc/release/License/GPL
+END
+LEGAL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/262/MacRuby/trunk/misc/release/License/LEGAL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/262/MacRuby/trunk/misc/release/License/COPYING
+END

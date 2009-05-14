@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/digest
+END
+test_digest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/digest/test_digest.rb
+END
+test_digest_hmac.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/digest/test_digest_hmac.rb
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/depend
+END
+bigdecimal.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/bigdecimal.c
+END
+bigdecimal_en.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/bigdecimal_en.html
+END
+bigdecimal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/bigdecimal.h
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/README
+END
+bigdecimal.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/bigdecimal.def
+END
+bigdecimal_ja.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/bigdecimal/bigdecimal_ja.html
+END

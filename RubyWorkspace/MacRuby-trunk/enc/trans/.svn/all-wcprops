@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/trans
+END
+korean.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/trans/korean.c
+END
+single_byte.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/trans/single_byte.c
+END
+japanese.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/enc/trans/japanese.c
+END
+utf_16_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/trans/utf_16_32.c
+END
+make_transdb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/199/MacRuby/trunk/enc/trans/make_transdb.rb
+END

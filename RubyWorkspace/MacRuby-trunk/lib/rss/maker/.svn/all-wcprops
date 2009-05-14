@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rss/maker
+END
+taxonomy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/taxonomy.rb
+END
+image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/image.rb
+END
+syndication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/syndication.rb
+END
+trackback.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/trackback.rb
+END
+dublincore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/dublincore.rb
+END
+1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/1.0.rb
+END
+2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/2.0.rb
+END
+atom.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/atom.rb
+END
+entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/entry.rb
+END
+feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/feed.rb
+END
+0.9.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/0.9.rb
+END
+itunes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rss/maker/itunes.rb
+END
+slash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/slash.rb
+END
+content.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rss/maker/content.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rss/maker/base.rb
+END

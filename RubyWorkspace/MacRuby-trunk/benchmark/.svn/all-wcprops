@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/460/MacRuby/trunk/benchmark
+END
+bm_so_reverse_complement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_reverse_complement.rb
+END
+bm_app_answer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_answer.rb
+END
+bm_so_fasta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_fasta.rb
+END
+bm_app_tarai.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_tarai.rb
+END
+bm_io_file_read.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_io_file_read.rb
+END
+bm_vm1_length.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_length.rb
+END
+bm_so_partial_sums.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_partial_sums.rb
+END
+bm_vm2_unif1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_unif1.rb
+END
+bm_app_pi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_pi.rb
+END
+bm_app_pentomino.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_pentomino.rb
+END
+bm_vm2_poly_method_ov.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_poly_method_ov.rb
+END
+bm_so_nsieve_bits.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_nsieve_bits.rb
+END
+bm_so_nested_loop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_nested_loop.rb
+END
+bm_vm2_send.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_send.rb
+END
+bm_io_file_write.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_io_file_write.rb
+END
+bm_vm2_super.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_super.rb
+END
+bm_vm2_mutex.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_mutex.rb
+END
+run.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/run.rb
+END
+bm_vm2_proc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_proc.rb
+END
+bm_app_mandelbrot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_mandelbrot.rb
+END
+bm_loop_whileloop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_loop_whileloop.rb
+END
+make_fasta_output.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/make_fasta_output.rb
+END
+report.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/report.rb
+END
+bm_so_exception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_exception.rb
+END
+bm_so_lists.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_lists.rb
+END
+prepare_so_reverse_complement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/prepare_so_reverse_complement.rb
+END
+bm_app_raise.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_raise.rb
+END
+bm_so_k_nucleotide.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_k_nucleotide.rb
+END
+bm_so_count_words.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_count_words.rb
+END
+bm_app_erb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_erb.rb
+END
+bm_vm1_rescue.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_rescue.rb
+END
+bm_vm2_eval.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/199/MacRuby/trunk/benchmark/bm_vm2_eval.rb
+END
+bm_so_sieve.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/199/MacRuby/trunk/benchmark/bm_so_sieve.rb
+END
+bm_so_pidigits.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_pidigits.rb
+END
+bm_vm3_gc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/460/MacRuby/trunk/benchmark/bm_vm3_gc.rb
+END
+bm_so_binary_trees.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_binary_trees.rb
+END
+bm_io_file_create.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_io_file_create.rb
+END
+runc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/runc.rb
+END
+bm_so_meteor_contest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_meteor_contest.rb
+END
+bm_vm3_thread_create_join.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm3_thread_create_join.rb
+END
+bm_vm1_ivar_set.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_ivar_set.rb
+END
+bm_app_strconcat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_strconcat.rb
+END
+bm_app_fib.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_fib.rb
+END
+bm_so_ackermann.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_ackermann.rb
+END
+bm_so_matrix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_matrix.rb
+END
+bm_vm1_neq.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_neq.rb
+END
+prepare_so_k_nucleotide.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/prepare_so_k_nucleotide.rb
+END
+bm_app_mergesort.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/133/MacRuby/trunk/benchmark/bm_app_mergesort.rb
+END
+prepare_so_count_words.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/prepare_so_count_words.rb
+END
+bm_so_spectralnorm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_spectralnorm.rb
+END
+bm_so_nbody.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_nbody.rb
+END
+bm_vm2_zsuper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_zsuper.rb
+END
+bm_loop_whileloop2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_loop_whileloop2.rb
+END
+driver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/driver.rb
+END
+bm_vm2_regexp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_regexp.rb
+END
+bm_vm3_thread_mutex.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm3_thread_mutex.rb
+END
+bm_so_array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_array.rb
+END
+bm_so_random.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_random.rb
+END
+bm_vm1_ensure.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_ensure.rb
+END
+bm_so_concatenate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_concatenate.rb
+END
+bm_so_mandelbrot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_mandelbrot.rb
+END
+bm_vm1_swap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_swap.rb
+END
+bm_so_fannkuch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_fannkuch.rb
+END
+bm_vm2_case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_case.rb
+END
+bm_app_uri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_uri.rb
+END
+wc.input.base
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/wc.input.base
+END
+bm_vm2_array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_array.rb
+END
+bm_vm2_method.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_method.rb
+END
+bm_app_factorial.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_factorial.rb
+END
+bm_vm2_poly_method.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm2_poly_method.rb
+END
+bm_so_object.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_object.rb
+END
+bm_vm1_const.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_const.rb
+END
+bm_loop_times.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_loop_times.rb
+END
+bm_vm1_simplereturn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_simplereturn.rb
+END
+bm_vm1_block.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_block.rb
+END
+bm_app_tak.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_app_tak.rb
+END
+bm_loop_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_loop_generator.rb
+END
+bm_vm1_not.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_not.rb
+END
+bm_vm1_ivar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_vm1_ivar.rb
+END
+bm_so_nsieve.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/benchmark/bm_so_nsieve.rb
+END
+bmx_temp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/247/MacRuby/trunk/benchmark/bmx_temp.rb
+END

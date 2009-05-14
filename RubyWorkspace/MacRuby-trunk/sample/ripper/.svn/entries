@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample/ripper
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+strip-comment.rb
+file
+
+
+
+
+2009-03-19T12:58:53.000000Z
+0b12fd60a40396a8c97d2fb01661ac3c
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+ruby2html.rb
+file
+
+
+
+
+2009-03-19T12:58:53.000000Z
+5466b825b7a91fb6a0d107a2c65e42c9
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

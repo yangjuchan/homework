@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data
+END
+bug_covert.expected
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_covert.expected
+END
+xml1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/xml1.xml
+END
+xml1.expected
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/xml1.expected
+END
+datetime_iso8601.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/datetime_iso8601.xml
+END
+bug_bool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_bool.xml
+END
+bug_bool.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_bool.expected
+END
+bug_cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_cdata.xml
+END
+bug_cdata.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_cdata.expected
+END
+fault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/fault.xml
+END
+value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/value.xml
+END
+value.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/value.expected
+END
+bug_covert.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/xmlrpc/data/bug_covert.xml
+END

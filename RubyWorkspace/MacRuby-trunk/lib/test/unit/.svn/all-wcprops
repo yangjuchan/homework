@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/test/unit
+END
+assertions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/test/unit/assertions.rb
+END
+testcase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/test/unit/testcase.rb
+END

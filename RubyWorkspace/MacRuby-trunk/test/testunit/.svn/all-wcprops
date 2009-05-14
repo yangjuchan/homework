@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit
+END
+test_testresult.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_testresult.rb
+END
+test_failure.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_failure.rb
+END
+test_error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_error.rb
+END
+test_testsuite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_testsuite.rb
+END
+test_assertions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_assertions.rb
+END
+test_testcase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/testunit/test_testcase.rb
+END

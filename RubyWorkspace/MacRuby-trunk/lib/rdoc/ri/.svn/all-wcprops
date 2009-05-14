@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/849/MacRuby/trunk/lib/rdoc/ri
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/util.rb
+END
+paths.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/849/MacRuby/trunk/lib/rdoc/ri/paths.rb
+END
+reader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/reader.rb
+END
+cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/cache.rb
+END
+formatter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/formatter.rb
+END
+display.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/display.rb
+END
+descriptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/descriptions.rb
+END
+driver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/ri/driver.rb
+END
+writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rdoc/ri/writer.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/yaml
+END
+test_yamlstore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/yaml/test_yamlstore.rb
+END
+test_yaml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/yaml/test_yaml.rb
+END

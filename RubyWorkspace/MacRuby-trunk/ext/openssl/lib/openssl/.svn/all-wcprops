@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/lib/openssl
+END
+bn.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/lib/openssl/bn.rb
+END
+digest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/openssl/lib/openssl/digest.rb
+END
+ssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/lib/openssl/ssl.rb
+END
+x509.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/lib/openssl/x509.rb
+END
+buffering.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/lib/openssl/buffering.rb
+END
+cipher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/openssl/lib/openssl/cipher.rb
+END

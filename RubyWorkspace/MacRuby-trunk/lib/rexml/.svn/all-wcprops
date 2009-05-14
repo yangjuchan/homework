@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml
+END
+document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/document.rb
+END
+syncenumerator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/syncenumerator.rb
+END
+instruction.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/instruction.rb
+END
+child.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/child.rb
+END
+sax2listener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/sax2listener.rb
+END
+xpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/xpath.rb
+END
+xmltokens.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/xmltokens.rb
+END
+text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/text.rb
+END
+node.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/node.rb
+END
+encoding.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encoding.rb
+END
+rexml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/rexml.rb
+END
+xmldecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/xmldecl.rb
+END
+element.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/element.rb
+END
+parent.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parent.rb
+END
+parseexception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parseexception.rb
+END
+quickpath.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/quickpath.rb
+END
+namespace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/namespace.rb
+END
+undefinednamespaceexception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/undefinednamespaceexception.rb
+END
+output.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/output.rb
+END
+source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/source.rb
+END
+xpath_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/xpath_parser.rb
+END
+streamlistener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/streamlistener.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/comment.rb
+END
+attribute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/attribute.rb
+END
+doctype.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/doctype.rb
+END
+functions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/functions.rb
+END
+entity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/entity.rb
+END
+cdata.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/cdata.rb
+END
+attlistdecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/attlistdecl.rb
+END

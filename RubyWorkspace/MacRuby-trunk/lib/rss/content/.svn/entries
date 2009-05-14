@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/rss/content
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+1.0.rb
+file
+
+
+
+
+2009-03-19T12:59:07.000000Z
+0168ef325a5bd1404cf3ef9a6ab8cae4
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+2.0.rb
+file
+
+
+
+
+2009-03-19T12:59:07.000000Z
+62e9259ee7a70c864d28441513e62e44
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

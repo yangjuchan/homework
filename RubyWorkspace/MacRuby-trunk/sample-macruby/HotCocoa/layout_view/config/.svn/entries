@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/HotCocoa/layout_view/config
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-28T01:45:43.541060Z
+498
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+build.yml
+file
+
+
+
+
+2009-03-19T13:00:54.000000Z
+ead444f698e3589d84caa188f4085cca
+2008-08-28T01:45:43.541060Z
+498
+rich@infoether.com
+

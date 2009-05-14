@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/dl/win32/lib/win32
+END
+sspi.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/win32/lib/win32/sspi.rb
+END
+registry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/dl/win32/lib/win32/registry.rb
+END
+resolv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/dl/win32/lib/win32/resolv.rb
+END

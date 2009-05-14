@@ -1,0 +1,317 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 995F02400F7E1B9600FD25EB /* EightPuzzleConsole */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* EightPuzzleConsole */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* EightPuzzleConsole */,
+		);
+		codeSenseManager = 995F02480F7E1BAD00FD25EB /* Code sense */;
+		executables = (
+			995F02400F7E1B9600FD25EB /* EightPuzzleConsole */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					613,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 260018226;
+			PBXWorkspaceStateSaveDate = 260018226;
+		};
+		perUserProjectItems = {
+			99226A490F7E5A6000CDB981 /* PBXTextBookmark */ = 99226A490F7E5A6000CDB981 /* PBXTextBookmark */;
+			99226A7B0F7E5A6000CDB981 /* PBXTextBookmark */ = 99226A7B0F7E5A6000CDB981 /* PBXTextBookmark */;
+			99226A7C0F7E5A6000CDB981 /* PBXTextBookmark */ = 99226A7C0F7E5A6000CDB981 /* PBXTextBookmark */;
+			995F02780F7E1E0700FD25EB /* PBXTextBookmark */ = 995F02780F7E1E0700FD25EB /* PBXTextBookmark */;
+			995F02A40F7E258100FD25EB /* PBXTextBookmark */ = 995F02A40F7E258100FD25EB /* PBXTextBookmark */;
+			995F02A50F7E258100FD25EB /* PBXTextBookmark */ = 995F02A50F7E258100FD25EB /* PBXTextBookmark */;
+			9965F2BA0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BA0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2BB0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BB0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2BC0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BC0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2BD0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BD0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2BE0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BE0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2BF0F7F97DD0057613E /* PBXTextBookmark */ = 9965F2BF0F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2C00F7F97DD0057613E /* PBXTextBookmark */ = 9965F2C00F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2C10F7F97DD0057613E /* PBXTextBookmark */ = 9965F2C10F7F97DD0057613E /* PBXTextBookmark */;
+			9965F2C20F7F97DD0057613E /* PBXTextBookmark */ = 9965F2C20F7F97DD0057613E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 995F02470F7E1BAD00FD25EB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* EightPuzzleConsole.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 527}}";
+			sepNavSelRange = "{90, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* EightPuzzleConsole_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 527}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 178}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* EightPuzzleConsole */ = {
+		activeExec = 0;
+		executables = (
+			995F02400F7E1B9600FD25EB /* EightPuzzleConsole */,
+		);
+	};
+	992269980F7E3AFF00CDB981 /* PuzzleLists.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 527}}";
+			sepNavSelRange = "{46, 0}";
+			sepNavVisRange = "{0, 535}";
+		};
+	};
+	992269990F7E3AFF00CDB981 /* PuzzleLists.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 616}}";
+			sepNavSelRange = "{215, 0}";
+			sepNavVisRange = "{0, 528}";
+		};
+	};
+	99226A490F7E5A6000CDB981 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* EightPuzzleConsole.1 */;
+		name = "EightPuzzleConsole.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 0;
+	};
+	99226A7B0F7E5A6000CDB981 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269980F7E3AFF00CDB981 /* PuzzleLists.h */;
+		name = "PuzzleLists.h: 20";
+		rLen = 145;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 516;
+		vrLoc = 0;
+	};
+	99226A7C0F7E5A6000CDB981 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269990F7E3AFF00CDB981 /* PuzzleLists.m */;
+		name = "PuzzleLists.m: 13";
+		rLen = 0;
+		rLoc = 378;
+		rType = 0;
+		vrLen = 364;
+		vrLoc = 0;
+	};
+	995F02400F7E1B9600FD25EB /* EightPuzzleConsole */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EightPuzzleConsole;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	995F02470F7E1BAD00FD25EB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	995F02480F7E1BAD00FD25EB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	995F02490F7E1BB500FD25EB /* JAPriorityQueue.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1830, 826}}";
+			sepNavSelRange = "{1410, 0}";
+			sepNavVisRange = "{912, 1648}";
+		};
+	};
+	995F024A0F7E1BBC00FD25EB /* JAPriorityQueue.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 7826}}";
+			sepNavSelRange = "{3440, 0}";
+			sepNavVisRange = "{1983, 974}";
+		};
+	};
+	995F02780F7E1E0700FD25EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EightPuzzleConsole.m */;
+		name = "EightPuzzleConsole.m: 20";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	995F02940F7E238400FD25EB /* Puzzle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 527}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	995F02950F7E238400FD25EB /* Puzzle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 527}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{0, 385}";
+		};
+	};
+	995F02A40F7E258100FD25EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* EightPuzzleConsole.1 */;
+		name = "EightPuzzleConsole.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 0;
+	};
+	995F02A50F7E258100FD25EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* EightPuzzleConsole_Prefix.pch */;
+		name = "EightPuzzleConsole_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	9965F2BA0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269990F7E3AFF00CDB981 /* PuzzleLists.m */;
+		name = "PuzzleLists.m: 15";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	9965F2BB0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269980F7E3AFF00CDB981 /* PuzzleLists.h */;
+		name = "PuzzleLists.h: 4";
+		rLen = 0;
+		rLoc = 46;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	9965F2BC0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* EightPuzzleConsole_Prefix.pch */;
+		name = "EightPuzzleConsole_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	9965F2BD0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EightPuzzleConsole.m */;
+		name = "EightPuzzleConsole.m: 4";
+		rLen = 0;
+		rLoc = 90;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	9965F2BE0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269990F7E3AFF00CDB981 /* PuzzleLists.m */;
+		name = "PuzzleLists.m: 15";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	9965F2BF0F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 992269980F7E3AFF00CDB981 /* PuzzleLists.h */;
+		name = "PuzzleLists.h: 4";
+		rLen = 0;
+		rLoc = 46;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	9965F2C00F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EightPuzzleConsole.m */;
+		name = "EightPuzzleConsole.m: 4";
+		rLen = 0;
+		rLoc = 90;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	9965F2C10F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* EightPuzzleConsole_Prefix.pch */;
+		name = "EightPuzzleConsole_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	9965F2C20F7F97DD0057613E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* EightPuzzleConsole.m */;
+		name = "EightPuzzleConsole.m: 4";
+		rLen = 0;
+		rLoc = 90;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	C6859EA3029092ED04C91782 /* EightPuzzleConsole.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 1106}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1712}";
+		};
+	};
+}

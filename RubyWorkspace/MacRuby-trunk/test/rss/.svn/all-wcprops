@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss
+END
+test_maker_2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_2.0.rb
+END
+test_setup_maker_atom_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_atom_entry.rb
+END
+rss-testcase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/rss-testcase.rb
+END
+test_setup_maker_atom_feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_atom_feed.rb
+END
+test_maker_slash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_slash.rb
+END
+test_setup_maker_1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_1.0.rb
+END
+test_parser_atom_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_parser_atom_entry.rb
+END
+test_2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_2.0.rb
+END
+rss-assertions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/rss-assertions.rb
+END
+test_maker_atom_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_atom_entry.rb
+END
+test_maker_image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_image.rb
+END
+test_accessor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_accessor.rb
+END
+test_inherit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_inherit.rb
+END
+test_maker_atom_feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_atom_feed.rb
+END
+test_maker_trackback.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_trackback.rb
+END
+test_to_s.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_to_s.rb
+END
+test_setup_maker_0.9.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_0.9.rb
+END
+test_maker_dc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_dc.rb
+END
+test_setup_maker_itunes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_itunes.rb
+END
+test_itunes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_itunes.rb
+END
+test_slash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_slash.rb
+END
+test_parser_2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_parser_2.0.rb
+END
+test_maker_1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_1.0.rb
+END
+test_taxonomy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_taxonomy.rb
+END
+test_image.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_image.rb
+END
+test_syndication.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_syndication.rb
+END
+test_maker_0.9.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_0.9.rb
+END
+test_trackback.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_trackback.rb
+END
+test_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_version.rb
+END
+test_maker_itunes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_itunes.rb
+END
+test_dublincore.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_dublincore.rb
+END
+test_xml-stylesheet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_xml-stylesheet.rb
+END
+test_maker_content.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_content.rb
+END
+test_maker_taxo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_taxo.rb
+END
+test_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_parser.rb
+END
+test_1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_1.0.rb
+END
+test_setup_maker_2.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_2.0.rb
+END
+test_parser_atom_feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_parser_atom_feed.rb
+END
+test_atom.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_atom.rb
+END
+test_maker_xml-stylesheet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_xml-stylesheet.rb
+END
+test_setup_maker_slash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_setup_maker_slash.rb
+END
+test_parser_1.0.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_parser_1.0.rb
+END
+test_maker_sy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_maker_sy.rb
+END
+test_content.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/rss/test_content.rb
+END

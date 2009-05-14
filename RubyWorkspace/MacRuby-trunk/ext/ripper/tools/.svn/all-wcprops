@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/ripper/tools
+END
+strip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/ripper/tools/strip.rb
+END
+generate-param-macros.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/ripper/tools/generate-param-macros.rb
+END
+generate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/ripper/tools/generate.rb
+END
+preproc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/ripper/tools/preproc.rb
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/209/MacRuby/trunk/lib/rubygems/indexer
+END
+abstract_index_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/indexer/abstract_index_builder.rb
+END
+marshal_index_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/indexer/marshal_index_builder.rb
+END
+master_index_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/indexer/master_index_builder.rb
+END
+latest_index_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/209/MacRuby/trunk/lib/rubygems/indexer/latest_index_builder.rb
+END
+quick_index_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/indexer/quick_index_builder.rb
+END

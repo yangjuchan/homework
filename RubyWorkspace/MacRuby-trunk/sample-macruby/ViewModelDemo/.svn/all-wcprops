@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/ViewModelDemo
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/252/MacRuby/trunk/sample-macruby/ViewModelDemo/main.m
+END
+Controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/558/MacRuby/trunk/sample-macruby/ViewModelDemo/Controller.rb
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/252/MacRuby/trunk/sample-macruby/ViewModelDemo/Info.plist
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/252/MacRuby/trunk/sample-macruby/ViewModelDemo/rb_main.rb
+END
+Superview.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/ViewModelDemo/Superview.rb
+END
+ViewModel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/252/MacRuby/trunk/sample-macruby/ViewModelDemo/ViewModel.rb
+END

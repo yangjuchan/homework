@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fiber
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fiber/extconf.rb
+END
+fiber.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/fiber/fiber.c
+END

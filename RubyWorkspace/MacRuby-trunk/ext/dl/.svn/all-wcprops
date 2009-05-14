@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/dl
+END
+cfunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/121/MacRuby/trunk/ext/dl/cfunc.c
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/depend
+END
+dl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/dl.c
+END
+dl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/dl.h
+END
+mkcallback.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/mkcallback.rb
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/extconf.rb
+END
+cptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/cptr.c
+END
+handle.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/handle.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/dl/.cvsignore
+END

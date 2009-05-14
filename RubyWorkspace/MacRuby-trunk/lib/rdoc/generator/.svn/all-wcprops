@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator
+END
+xml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/xml.rb
+END
+html.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/html.rb
+END
+chm.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rdoc/generator/chm.rb
+END
+ri.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/ri.rb
+END
+texinfo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rdoc/generator/texinfo.rb
+END

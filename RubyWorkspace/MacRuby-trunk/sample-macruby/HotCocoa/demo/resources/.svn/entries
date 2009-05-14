@@ -1,0 +1,54 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/HotCocoa/demo/resources
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-27T21:20:22.603744Z
+496
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+rich.jpg
+file
+
+
+
+
+2009-03-19T13:00:51.000000Z
+36eb24daebf76899c03d467771693031
+2008-08-27T21:20:22.603744Z
+496
+rich@infoether.com
+has-props
+
+HotCocoa.icns
+file
+
+
+
+
+2009-03-19T13:00:51.000000Z
+f9479b0fd9049b852bc547bf2b412482
+2008-08-21T04:57:31.683297Z
+458
+rich@infoether.com
+has-props
+

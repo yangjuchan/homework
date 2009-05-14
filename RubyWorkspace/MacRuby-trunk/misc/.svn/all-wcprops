@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repository/ruby/!svn/ver/765/MacRuby/trunk/misc
+END
+rubydb2x.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/misc/rubydb2x.el
+END
+rubydb3x.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/misc/rubydb3x.el
+END
+ruby-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/247/MacRuby/trunk/misc/ruby-mode.el
+END
+rdebug.el
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/misc/rdebug.el
+END
+ruby-electric.el
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/misc/ruby-electric.el
+END
+inf-ruby.el
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/misc/inf-ruby.el
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/199/MacRuby/trunk/misc/README
+END
+ruby-style.el
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/199/MacRuby/trunk/misc/ruby-style.el
+END

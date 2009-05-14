@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/281/MacRuby/trunk/bootstraptest
+END
+test_load.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_load.rb
+END
+test_method.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_method.rb
+END
+test_objectspace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/218/MacRuby/trunk/bootstraptest/test_objectspace.rb
+END
+test_struct.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/281/MacRuby/trunk/bootstraptest/test_struct.rb
+END
+pending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/pending.rb
+END
+test_syntax.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_syntax.rb
+END
+test_eval.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_eval.rb
+END
+test_marshal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/53/MacRuby/trunk/bootstraptest/test_marshal.rb
+END
+test_knownbug.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_knownbug.rb
+END
+test_flip.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_flip.rb
+END
+test_block.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_block.rb
+END
+test_literal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_literal.rb
+END
+test_exception.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_exception.rb
+END
+test_fork.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_fork.rb
+END
+test_massign.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_massign.rb
+END
+test_proc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_proc.rb
+END
+test_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/188/MacRuby/trunk/bootstraptest/test_class.rb
+END
+test_io.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/53/MacRuby/trunk/bootstraptest/test_io.rb
+END
+test_flow.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_flow.rb
+END
+test_thread.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_thread.rb
+END
+test_autoload.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/281/MacRuby/trunk/bootstraptest/test_autoload.rb
+END
+test_attr.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/bootstraptest/test_attr.rb
+END
+runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/bootstraptest/runner.rb
+END
+test_jump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/247/MacRuby/trunk/bootstraptest/test_jump.rb
+END

@@ -1,0 +1,64 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/test-macruby
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-02-27T12:54:37.399420Z
+816
+eloy.de.enige@gmail.com
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+test_helper.rb
+file
+
+
+
+
+2009-03-19T12:59:24.000000Z
+fef2f0d785913389089165d39b74c6e0
+2009-01-15T15:28:56.968670Z
+792
+eloy.de.enige@gmail.com
+
+fixtures
+dir
+
+runner.rb
+file
+
+
+
+
+2009-03-19T12:59:24.000000Z
+a8440c722a52d0c3a7c5975568882cab
+2009-01-15T15:28:56.968670Z
+792
+eloy.de.enige@gmail.com
+
+known_bugs
+dir
+
+cases
+dir
+
+test_helper
+dir
+

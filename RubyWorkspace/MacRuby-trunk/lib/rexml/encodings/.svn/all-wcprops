@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/encodings
+END
+US-ASCII.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/US-ASCII.rb
+END
+ICONV.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/ICONV.rb
+END
+SHIFT-JIS.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/SHIFT-JIS.rb
+END
+SHIFT_JIS.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/SHIFT_JIS.rb
+END
+UTF-16.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/UTF-16.rb
+END
+EUC-JP.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/EUC-JP.rb
+END
+ISO-8859-1.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/ISO-8859-1.rb
+END
+UTF-8.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/UTF-8.rb
+END
+ISO-8859-15.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/encodings/ISO-8859-15.rb
+END
+CP-1252.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/encodings/CP-1252.rb
+END
+UNILE.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/encodings/UNILE.rb
+END

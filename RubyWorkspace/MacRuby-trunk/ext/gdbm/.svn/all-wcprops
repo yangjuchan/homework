@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/gdbm
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/gdbm/depend
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/gdbm/extconf.rb
+END
+gdbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/199/MacRuby/trunk/ext/gdbm/gdbm.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/gdbm/.cvsignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/gdbm/README
+END

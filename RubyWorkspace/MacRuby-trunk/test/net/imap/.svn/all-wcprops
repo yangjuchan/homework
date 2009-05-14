@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/net/imap
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/net/imap/cacert.pem
+END
+test_imap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/247/MacRuby/trunk/test/net/imap/test_imap.rb
+END
+server.crt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/net/imap/server.crt
+END
+server.key
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/test/net/imap/server.key
+END

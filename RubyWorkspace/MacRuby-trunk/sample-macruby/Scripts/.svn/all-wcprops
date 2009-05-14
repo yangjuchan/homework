@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/631/MacRuby/trunk/sample-macruby/Scripts
+END
+darkroom.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/251/MacRuby/trunk/sample-macruby/Scripts/darkroom.rb
+END
+circle.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/240/MacRuby/trunk/sample-macruby/Scripts/circle.rb
+END
+jumpy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/489/MacRuby/trunk/sample-macruby/Scripts/jumpy.rb
+END
+pdf2tiff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/254/MacRuby/trunk/sample-macruby/Scripts/pdf2tiff.rb
+END
+transparent_hello.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repository/ruby/!svn/ver/215/MacRuby/trunk/sample-macruby/Scripts/transparent_hello.rb
+END
+hello_world.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/240/MacRuby/trunk/sample-macruby/Scripts/hello_world.rb
+END

@@ -1,0 +1,82 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/nkf
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-01T02:42:28.840998Z
+823
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+depend
+file
+
+
+
+
+2009-03-19T12:59:43.000000Z
+6a34bdbfcc8d795b5c8c0bd41bf20667
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+nkf.c
+file
+
+
+
+
+2009-03-19T12:59:43.000000Z
+9d21246cb8683de1b480e4fdb62ac58b
+2009-03-01T02:42:28.840998Z
+823
+lsansonetti@apple.com
+
+nkf-utf8
+dir
+
+lib
+dir
+
+extconf.rb
+file
+
+
+
+
+2009-03-19T12:59:43.000000Z
+c04029a5a25ba899aecdcc5824476195
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+.cvsignore
+file
+
+
+
+
+2009-03-19T12:59:43.000000Z
+bccdbd5938133795640ee1d4ac57fbcd
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

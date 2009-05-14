@@ -1,0 +1,5 @@
+generate_exception(1) -> a;
+generate_exception(2) -> throw(a);
+generate_exception(3) -> exit(a);
+generate_exception(4) -> {'EXIT', a};
+generate_exception(5) -> erlang:error(a).

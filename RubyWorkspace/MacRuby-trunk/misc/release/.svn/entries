@@ -1,0 +1,46 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/misc/release
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-06-06T21:08:23.435137Z
+262
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+License
+dir
+
+MacRuby.pmdoc
+dir
+
+About MacRuby.rtf
+file
+
+
+
+
+2009-03-19T12:58:37.000000Z
+2a7b3ec5beb5b51a478588d5a9ad5dd7
+2008-06-06T21:08:23.435137Z
+262
+lsansonetti@apple.com
+

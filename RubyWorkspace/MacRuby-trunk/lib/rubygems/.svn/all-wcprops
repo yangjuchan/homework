@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems
+END
+user_interaction.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/user_interaction.rb
+END
+command.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/command.rb
+END
+dependency.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/dependency.rb
+END
+source_info_cache_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/source_info_cache_entry.rb
+END
+local_remote_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/local_remote_options.rb
+END
+timer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/timer.rb
+END
+install_update_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/install_update_options.rb
+END
+validator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/validator.rb
+END
+old_format.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/old_format.rb
+END
+builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/builder.rb
+END
+format.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/format.rb
+END
+spec_fetcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/spec_fetcher.rb
+END
+dependency_installer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/dependency_installer.rb
+END
+indexer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/indexer.rb
+END
+doc_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/doc_manager.rb
+END
+gem_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/gem_runner.rb
+END
+config_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/config_file.rb
+END
+custom_require.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/custom_require.rb
+END
+version_option.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/version_option.rb
+END
+specification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/specification.rb
+END
+require_paths_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/require_paths_builder.rb
+END
+exceptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/exceptions.rb
+END
+platform.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/platform.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/version.rb
+END
+source_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/source_index.rb
+END
+remote_fetcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/remote_fetcher.rb
+END
+package.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/199/MacRuby/trunk/lib/rubygems/package.rb
+END
+installer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/installer.rb
+END
+source_info_cache.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/source_info_cache.rb
+END
+ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rubygems/ext.rb
+END
+gem_path_searcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/gem_path_searcher.rb
+END
+requirement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/requirement.rb
+END
+uninstaller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/uninstaller.rb
+END
+rubygems_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/rubygems_version.rb
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/server.rb
+END
+defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/defaults.rb
+END
+security.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/security.rb
+END
+command_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/command_manager.rb
+END
+dependency_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/dependency_list.rb
+END
+test_utilities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/test_utilities.rb
+END
+gem_openssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rubygems/gem_openssl.rb
+END

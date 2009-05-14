@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/formatters
+END
+default.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/formatters/default.rb
+END
+pretty.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/formatters/pretty.rb
+END
+transitive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/formatters/transitive.rb
+END

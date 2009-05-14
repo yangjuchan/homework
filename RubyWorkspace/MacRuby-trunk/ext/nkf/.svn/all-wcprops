@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/823/MacRuby/trunk/ext/nkf
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/depend
+END
+nkf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/823/MacRuby/trunk/ext/nkf/nkf.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/extconf.rb
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/nkf/.cvsignore
+END

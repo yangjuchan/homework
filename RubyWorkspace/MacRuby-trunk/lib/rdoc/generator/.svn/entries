@@ -1,0 +1,103 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/lib/rdoc/generator
+http://svn.macosforge.org/repository/ruby
+
+
+
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+xml
+dir
+
+xml.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+27aac42a9c58919d8a536e0b461e6c76
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+html
+dir
+
+html.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+94393814d9ae77fbdc50fdc46d4db1be
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+chm
+dir
+
+chm.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+e01bfb9517af0db63c11ea2b28c9991e
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+template
+dir
+
+texinfo
+dir
+
+ri.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+8f369cc0f632229d45ac0958d259b19f
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+
+texinfo.rb
+file
+
+
+
+
+2009-03-19T12:59:08.000000Z
+8f6b456f998c990b0b9ac5cd7d9ddf5f
+2009-03-02T04:32:25.663107Z
+829
+rich@infoether.com
+

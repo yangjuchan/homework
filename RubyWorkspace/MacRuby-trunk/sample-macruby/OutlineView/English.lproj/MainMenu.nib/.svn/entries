@@ -1,0 +1,53 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/OutlineView/English.lproj/MainMenu.nib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-29T23:08:17.119111Z
+33
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+keyedobjects.nib
+file
+
+
+
+
+2009-03-19T13:01:39.000000Z
+8f9a9d4887ed4def6eeb1b27ce9b825f
+2008-02-29T23:08:17.119111Z
+33
+lsansonetti@apple.com
+has-props
+
+designable.nib
+file
+
+
+
+
+2009-03-19T13:01:39.000000Z
+53dcd6718ecb0d9ef2d35bf5a965f793
+2008-02-29T23:08:17.119111Z
+33
+lsansonetti@apple.com
+

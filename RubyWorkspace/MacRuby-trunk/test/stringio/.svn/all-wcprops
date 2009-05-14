@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/stringio
+END
+test_stringio.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/199/MacRuby/trunk/test/stringio/test_stringio.rb
+END

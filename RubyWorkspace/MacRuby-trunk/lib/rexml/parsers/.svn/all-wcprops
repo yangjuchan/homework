@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/parsers
+END
+xpathparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/parsers/xpathparser.rb
+END
+lightparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/parsers/lightparser.rb
+END
+baseparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parsers/baseparser.rb
+END
+streamparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parsers/streamparser.rb
+END
+pullparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parsers/pullparser.rb
+END
+sax2parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/parsers/sax2parser.rb
+END
+treeparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/rexml/parsers/treeparser.rb
+END
+ultralightparser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/parsers/ultralightparser.rb
+END

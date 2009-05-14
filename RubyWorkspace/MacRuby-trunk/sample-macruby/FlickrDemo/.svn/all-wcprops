@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/FlickrDemo
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/554/MacRuby/trunk/sample-macruby/FlickrDemo/main.m
+END
+FlickrDemoController.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/ruby/!svn/ver/557/MacRuby/trunk/sample-macruby/FlickrDemo/FlickrDemoController.rb
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/554/MacRuby/trunk/sample-macruby/FlickrDemo/Info.plist
+END
+more.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/557/MacRuby/trunk/sample-macruby/FlickrDemo/more.png
+END
+less.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/557/MacRuby/trunk/sample-macruby/FlickrDemo/less.png
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/554/MacRuby/trunk/sample-macruby/FlickrDemo/rb_main.rb
+END

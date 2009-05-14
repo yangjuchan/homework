@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd
+END
+elementdecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd/elementdecl.rb
+END
+notationdecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd/notationdecl.rb
+END
+entitydecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd/entitydecl.rb
+END
+dtd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd/dtd.rb
+END
+attlistdecl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/rexml/dtd/attlistdecl.rb
+END

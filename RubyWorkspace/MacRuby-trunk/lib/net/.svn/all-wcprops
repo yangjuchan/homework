@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net
+END
+pop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/pop.rb
+END
+http.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/http.rb
+END
+protocol.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/net/protocol.rb
+END
+https.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/https.rb
+END
+smtp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/smtp.rb
+END
+imap.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/imap.rb
+END
+ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/ftp.rb
+END
+.document
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/net/.document
+END
+telnet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/net/telnet.rb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/819/MacRuby/trunk/include
+END
+rubyio.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/include/rubyio.h
+END
+ruby.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/247/MacRuby/trunk/include/ruby.h
+END
+MacRuby.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/ruby/!svn/ver/675/MacRuby/trunk/include/MacRuby.h
+END
+rubysig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/include/rubysig.h
+END

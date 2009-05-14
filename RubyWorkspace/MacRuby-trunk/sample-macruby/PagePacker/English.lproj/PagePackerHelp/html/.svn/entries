@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/PagePacker/English.lproj/PagePackerHelp/html
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+style.css
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+d85aed9bfe7a5471138925f696dc3bed
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+

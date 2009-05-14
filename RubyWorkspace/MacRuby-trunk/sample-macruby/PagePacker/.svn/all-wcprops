@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/PagePacker
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/main.m
+END
+CatalogController.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/PagePacker/CatalogController.rb
+END
+PagePacker.sdef
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/PagePacker.sdef
+END
+PreferenceController.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/PagePacker/PreferenceController.rb
+END
+Scriptability.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/Scriptability.rb
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/Info.plist
+END
+MyDocument.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/537/MacRuby/trunk/sample-macruby/PagePacker/MyDocument.rb
+END
+AppController.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/AppController.rb
+END
+PagePacker_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/PagePacker_Prefix.pch
+END
+GeometryUtilities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/GeometryUtilities.rb
+END
+PageInfo.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/515/MacRuby/trunk/sample-macruby/PagePacker/PageInfo.rb
+END
+DraggingSourcePDFView.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/DraggingSourcePDFView.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/ruby/!svn/ver/511/MacRuby/trunk/sample-macruby/PagePacker/README
+END
+PDFUtility.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/PDFUtility.rb
+END
+PackModel.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/515/MacRuby/trunk/sample-macruby/PagePacker/PackModel.rb
+END
+PackerView.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/PackerView.rb
+END
+Generic.icns
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/Generic.icns
+END
+TextDisplayView.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/TextDisplayView.rb
+END
+pages.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/pages.pdf
+END
+rb_main.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/rb_main.rb
+END
+PPApp.icns
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/PPApp.icns
+END
+RoundCloseButtonCell.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repository/ruby/!svn/ver/509/MacRuby/trunk/sample-macruby/PagePacker/RoundCloseButtonCell.rb
+END

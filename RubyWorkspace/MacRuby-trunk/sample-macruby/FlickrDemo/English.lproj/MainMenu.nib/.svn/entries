@@ -1,0 +1,53 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/FlickrDemo/English.lproj/MainMenu.nib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-09-05T23:10:24.766607Z
+558
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+keyedobjects.nib
+file
+
+
+
+
+2009-03-19T12:59:56.000000Z
+b43f4e3aeea37ae633c2e404173effb9
+2008-09-05T23:10:24.766607Z
+558
+lsansonetti@apple.com
+has-props
+
+designable.nib
+file
+
+
+
+
+2009-03-19T12:59:56.000000Z
+68014c68fd8bd06b815bb4c4fac2e3cf
+2008-09-05T23:10:24.766607Z
+558
+lsansonetti@apple.com
+

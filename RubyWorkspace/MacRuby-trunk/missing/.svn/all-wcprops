@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repository/ruby/!svn/ver/247/MacRuby/trunk/missing
+END
+flock.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/flock.c
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strlcpy.c
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/247/MacRuby/trunk/missing/crypt.c
+END
+strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strstr.c
+END
+hypot.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/hypot.c
+END
+os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/os2.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/memmove.c
+END
+strchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strchr.c
+END
+tgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/199/MacRuby/trunk/missing/tgamma.c
+END
+isnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/isnan.c
+END
+isinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/isinf.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/dup2.c
+END
+erf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/erf.c
+END
+strlcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strlcat.c
+END
+fileblocks.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/fileblocks.c
+END
+memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/memcmp.c
+END
+finite.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/finite.c
+END
+lgamma_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/ruby/!svn/ver/199/MacRuby/trunk/missing/lgamma_r.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strerror.c
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/file.h
+END
+x68.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/x68.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strtol.c
+END
+vsnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/247/MacRuby/trunk/missing/vsnprintf.c
+END
+cbrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/cbrt.c
+END
+alloca.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/alloca.c
+END
+acosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/acosh.c
+END
+strftime.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/ruby/!svn/ver/6/MacRuby/trunk/missing/strftime.c
+END

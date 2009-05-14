@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repository/ruby/!svn/ver/737/MacRuby/trunk/ext/socket
+END
+depend
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/depend
+END
+mkconstants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/mkconstants.rb
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/getaddrinfo.c
+END
+extconf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/extconf.rb
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/737/MacRuby/trunk/ext/socket/socket.c
+END
+sockport.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/sockport.h
+END
+addrinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/addrinfo.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/.cvsignore
+END
+getnameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/ruby/!svn/ver/6/MacRuby/trunk/ext/socket/getnameinfo.c
+END

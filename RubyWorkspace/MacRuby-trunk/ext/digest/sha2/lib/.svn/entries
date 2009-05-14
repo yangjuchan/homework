@@ -1,0 +1,40 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/digest/sha2/lib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+sha2.rb
+file
+
+
+
+
+2009-03-19T12:59:30.000000Z
+87f4d7bf6e4319eadb13f4f71e6961dd
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+

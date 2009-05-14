@@ -1,0 +1,44 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/CircleView/English.lproj
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-03-05T00:09:44.661480Z
+44
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+InfoPlist.strings
+file
+
+
+
+
+2009-03-19T12:59:57.000000Z
+eaef28fbfd8a159726ab587766c77030
+2008-03-05T00:09:44.661480Z
+44
+lsansonetti@apple.com
+has-props
+
+MainMenu.nib
+dir
+

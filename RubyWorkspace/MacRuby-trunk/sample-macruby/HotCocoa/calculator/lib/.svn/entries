@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/HotCocoa/calculator/lib
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-09-26T01:28:50.006947Z
+622
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+application.rb
+file
+
+
+
+
+2009-03-19T13:00:55.000000Z
+95bcea153dfc98eeb021c5b61f1e9491
+2008-09-26T01:28:50.006947Z
+622
+lsansonetti@apple.com
+
+menu.rb
+file
+
+
+
+
+2009-03-19T13:00:55.000000Z
+b8b72e1fcc05084301cfaac89a63290e
+2008-08-21T04:46:07.303996Z
+457
+rich@infoether.com
+

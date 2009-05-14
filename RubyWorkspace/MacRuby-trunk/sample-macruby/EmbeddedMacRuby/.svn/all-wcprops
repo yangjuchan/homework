@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/675/MacRuby/trunk/sample-macruby/EmbeddedMacRuby
+END
+MyController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/652/MacRuby/trunk/sample-macruby/EmbeddedMacRuby/MyController.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/ruby/!svn/ver/652/MacRuby/trunk/sample-macruby/EmbeddedMacRuby/main.m
+END
+EmbeddedMacRuby_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repository/ruby/!svn/ver/652/MacRuby/trunk/sample-macruby/EmbeddedMacRuby/EmbeddedMacRuby_Prefix.pch
+END
+MyController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repository/ruby/!svn/ver/657/MacRuby/trunk/sample-macruby/EmbeddedMacRuby/MyController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/ruby/!svn/ver/652/MacRuby/trunk/sample-macruby/EmbeddedMacRuby/Info.plist
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/webrick/httpauth
+END
+htpasswd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/htpasswd.rb
+END
+digestauth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/ruby/!svn/ver/829/MacRuby/trunk/lib/webrick/httpauth/digestauth.rb
+END
+basicauth.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/basicauth.rb
+END
+userdb.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/userdb.rb
+END
+htgroup.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/htgroup.rb
+END
+authenticator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/authenticator.rb
+END
+htdigest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/ruby/!svn/ver/6/MacRuby/trunk/lib/webrick/httpauth/htdigest.rb
+END

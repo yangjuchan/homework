@@ -1,0 +1,72 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/sample-macruby/PagePacker/English.lproj/PagePackerHelp
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+graphics
+dir
+
+ppicon16.png
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+16d100b70f133684dce86698f19f799e
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+has-props
+
+html
+dir
+
+PagePackerHelp.helpindex
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+51fc792c07e95835ec671a08ede95be6
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+has-props
+
+swtitle.html
+file
+
+
+
+
+2009-03-19T13:01:36.000000Z
+73e1fdcbc884bae5d5ee1f9966294b37
+2008-08-28T05:59:22.768477Z
+509
+lsansonetti@apple.com
+

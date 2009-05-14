@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repository/ruby/!svn/ver/846/MacRuby/trunk/sample-macruby/HotCocoa/round_transparent_window_no_nibs/lib
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repository/ruby/!svn/ver/846/MacRuby/trunk/sample-macruby/HotCocoa/round_transparent_window_no_nibs/lib/application.rb
+END
+custom_window_behaviors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repository/ruby/!svn/ver/845/MacRuby/trunk/sample-macruby/HotCocoa/round_transparent_window_no_nibs/lib/custom_window_behaviors.rb
+END
+menu.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repository/ruby/!svn/ver/845/MacRuby/trunk/sample-macruby/HotCocoa/round_transparent_window_no_nibs/lib/menu.rb
+END
+custom_view_behaviors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repository/ruby/!svn/ver/845/MacRuby/trunk/sample-macruby/HotCocoa/round_transparent_window_no_nibs/lib/custom_view_behaviors.rb
+END

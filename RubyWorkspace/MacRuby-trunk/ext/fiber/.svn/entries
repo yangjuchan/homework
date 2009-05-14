@@ -1,0 +1,52 @@
+8
+
+dir
+991
+http://svn.macosforge.org/repository/ruby/MacRuby/trunk/ext/fiber
+http://svn.macosforge.org/repository/ruby
+
+
+
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+23306eb0-4c56-4727-a40e-e92c0eb68959
+
+extconf.rb
+file
+
+
+
+
+2009-03-19T12:59:33.000000Z
+3db9e23c56b7c0af9b1a430d8356ffac
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
+fiber.c
+file
+
+
+
+
+2009-03-19T12:59:33.000000Z
+0a3752136493a2679ba1873741b00070
+2008-02-25T20:18:21.370205Z
+6
+lsansonetti@apple.com
+
